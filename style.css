@@ -1,0 +1,17 @@
+/*
+Theme Name: mttb
+Theme URI: https://www.mttb.com
+Author: Tolunay Emir Kocer
+Author URI: https://www.mttb.com
+Description: Special theme for Mttb
+Version: 1.0
+Text Domain: mttb
+*/
+
+
+body{background:#CCC;}
+header {background:#FFF;width:100%;height:120px;}
+footer {background: #222;color: #FFF;} 
+.navigation {padding-left:0;list-style:none;padding-top:60px;}
+.navigation li {display:inline;margin-right:20px;}
+.navbar {padding:10px 0;}
